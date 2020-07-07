@@ -44,12 +44,12 @@
 
 1. Ingresar al [Enlace de la sala](https://us04web.zoom.us/j/78678523541?pwd=TGVxRjFQZEFuUnVZL1JJTVFWL0pIUT09)
 
-2. ![Click en join meeting](https://i.imgur.com/a2H0WgI.png)
+2. ![Click en join meeting](https://i.imgur.com/zJAaOr0.png)
 
 a. Si no pasa nada, necesitamos instalar zoom. 
 
-B. ![Instalar zoom](https://i.imgur.com/1dPY4CZ.jpg)
+B. ![Instalar zoom](https://i.imgur.com/bN3mAvz.png)
 
-C. Instalamos zoom ![instalar zoom](https://i.imgur.com/EahwuBC.png)
+C. Instalamos zoom ![instalar zoom](https://i.imgur.com/kd3bEKg.png)
 
 D. Una vez instalada, volvemos al [enlace](https://us04web.zoom.us/j/78678523541?pwd=TGVxRjFQZEFuUnVZL1JJTVFWL0pIUT09) Y accedemos a la reunión
