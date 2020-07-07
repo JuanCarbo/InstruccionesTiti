@@ -32,11 +32,11 @@
 
 * __Si aún no es el horario de la reunión, van a ver el siguiente cartel. Pueden usar esto para confirmar que hicieron todos los pasos correctamente.__
 
-![Reunión Programada cartel](https://i.imgur.com/fpW95hF.png)
+![Reunión Programada cartel](https://i.imgur.com/NEvXcaO.png)
 
 ### Camino alternativo con enlace directo
 
-* [Enlace para sumarse directo a la reunion.](https://us04web.zoom.us/j/78678523541?pwd=TGVxRjFQZEFuUnVZL1JJTVFWL0pIUT09))
+* [Enlace para sumarse directo a la reunion.](https://us04web.zoom.us/j/72039818712?pwd=VnBjOGRNZkFSYmhqV051ZUliWWxhQT09)
 
 1. ![Dar click en abrir zoom mettings](https://i.imgur.com/scfjYy4.png)
 
