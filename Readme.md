@@ -48,7 +48,7 @@
 
 a. Si no pasa nada, necesitamos instalar zoom. 
 
-B. ![Instalar zoom](https://i.imgur.com/bN3mAvz.png)
+B. ![Instalar zoom](https://i.imgur.com/R6w04jB.png)
 
 C. Instalamos zoom ![instalar zoom](https://i.imgur.com/kd3bEKg.png)
 
